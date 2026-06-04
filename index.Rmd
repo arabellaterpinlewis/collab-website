@@ -8,3 +8,6 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+![DNA](https://www.psychologicalscience.org/redesign/wp-content/uploads/2014/04/GettyImages-966249212-1024x683.jpg)
+
