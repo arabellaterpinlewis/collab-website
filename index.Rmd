@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+#This is a header
 ![DNA](https://www.psychologicalscience.org/redesign/wp-content/uploads/2014/04/GettyImages-966249212-1024x683.jpg)
 
 =======
