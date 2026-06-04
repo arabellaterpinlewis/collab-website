@@ -1,0 +1,12 @@
+---
+title: "about"
+author: "me"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# We love snacks and genetics. Especially pretzels (this is in reference to the snacks not genetics)
