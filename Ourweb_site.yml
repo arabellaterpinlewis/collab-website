@@ -1,0 +1,9 @@
+name: "Clunky sisters"
+navbar:
+  title: "Our Collaborative Website"
+  left:
+    - text: "A page"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: "."
